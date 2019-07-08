@@ -16,9 +16,9 @@ import UIKit
 //var double = 5.0
 //
 //print (Double(int) * double)
-var a = 12.4
-var b = 65.0
-var c = 31.0
+var a = 12
+var b = 65
+var c = 31
 var d = 98
 
-
+print (a * b * c * d)
